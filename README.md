@@ -2,6 +2,8 @@ A new Reinforcement Learning Algorithm was proposed which made RL stable and fas
 
 This algorithm can be used to tune your hyperparameters.
 
+The *Teleportation Mechanism* is an *algorithm-extension*, which can be applied to many optimization algorithms.
+
 友情提示
 
 1. 如果遇到内存问题导致无法正常运行，请在高级系统设置中打开虚拟内存
