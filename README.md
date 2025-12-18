@@ -1,4 +1,6 @@
-This is a part of my Graduation Thesis. I devised a new Reinforcement Learning Algorithm that made RL stable and faster to converge by using Teleportation Mechanism and Reward Dissolving. This algorithm demonstrates the best performance. Apart from that, I attempted to obselete learning rate in RL, making RL easier to fine-tune.
+A new Reinforcement Learning Algorithm was proposed which made RL stable and faster to converge using **Teleportation Mechanism** and Reward Dissolving. Apart from that, a learning-rate-free RL algorithm was discussed.
+
+This algorithm can be used to tune your hyperparameters.
 
 友情提示
 
