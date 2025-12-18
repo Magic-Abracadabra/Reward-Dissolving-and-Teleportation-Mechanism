@@ -2,7 +2,7 @@ A new Reinforcement Learning Algorithm was proposed which made RL stable and fas
 
 This algorithm can be used to tune your hyperparameters.
 
-The *Teleportation Mechanism* is an *algorithm-extension*, which can be applied to many optimization algorithms. By leveraging the monotone bounded convergence theorem, we can let this plugin help the optimization algorithm to converge to global optima with probability 1 under certain conditions.
+The *Teleportation Mechanism* is an *algorithm-extension*, which can be applied to many optimization algorithms. By leveraging the monotone bounded convergence theorem, we can let this plugin help an optimization algorithm to converge to global optima with probability 1 under certain conditions.
 
 友情提示
 
